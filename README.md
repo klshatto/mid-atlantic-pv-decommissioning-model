@@ -50,7 +50,7 @@ Prepares electricity rate forecasts using EIA data and PTC values for PA (from P
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7 or higher
 - Libraries:
   - `pandas`
   - `numpy`
@@ -58,7 +58,8 @@ Prepares electricity rate forecasts using EIA data and PTC values for PA (from P
   - `seaborn`
   - `scipy`
   - `os`
-  - `re`
+  - `geopandas`
+  - `shapely`
 
 ## How to Reproduce
 
