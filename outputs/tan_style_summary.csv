@@ -1,0 +1,37 @@
+Scenario,PVCZ,Component,Weight,Mean Lifetime (yrs),Weibull Scale beta (yrs),Weibull Shape alpha
+Scenario 1,T6:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 1,T6:H4,Power Decrease,0.23,17.92,20.2,2.4928
+Scenario 1,T6:H4,Economic Motivation,0.7,24.38,25.8207,8.4819
+Scenario 1,T6:H4,Blended (Weighted),,22.23,23.7437,3.6592
+Scenario 1,T7:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 1,T7:H4,Power Decrease,0.23,16.41,18.5,2.4928
+Scenario 1,T7:H4,Economic Motivation,0.7,24.38,25.8207,8.4819
+Scenario 1,T7:H4,Blended (Weighted),,21.94,23.5477,3.6352
+Scenario 1,T8:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 1,T8:H4,Power Decrease,0.23,15.17,17.1,2.4928
+Scenario 1,T8:H4,Economic Motivation,0.7,24.38,25.8207,8.4819
+Scenario 1,T8:H4,Blended (Weighted),,21.55,23.0652,3.3692
+Scenario 2,T6:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 2,T6:H4,Power Decrease,0.465,17.92,20.2,2.4928
+Scenario 2,T6:H4,Economic Motivation,0.465,24.38,25.8207,8.4819
+Scenario 2,T6:H4,Blended (Weighted),,20.73,22.4154,2.9115
+Scenario 2,T7:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 2,T7:H4,Power Decrease,0.465,16.41,18.5,2.4928
+Scenario 2,T7:H4,Economic Motivation,0.465,24.38,25.8207,8.4819
+Scenario 2,T7:H4,Blended (Weighted),,20.13,21.6396,2.844
+Scenario 2,T8:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 2,T8:H4,Power Decrease,0.465,15.17,17.1,2.4928
+Scenario 2,T8:H4,Economic Motivation,0.465,24.38,25.8207,8.4819
+Scenario 2,T8:H4,Blended (Weighted),,19.4,21.0364,2.7084
+Scenario 3,T6:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 3,T6:H4,Power Decrease,0.7,17.92,20.2,2.4928
+Scenario 3,T6:H4,Economic Motivation,0.23,24.38,25.8207,8.4819
+Scenario 3,T6:H4,Blended (Weighted),,19.22,20.9992,2.4915
+Scenario 3,T7:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 3,T7:H4,Power Decrease,0.7,16.41,18.5,2.4928
+Scenario 3,T7:H4,Economic Motivation,0.23,24.38,25.8207,8.4819
+Scenario 3,T7:H4,Blended (Weighted),,18.31,19.7798,2.4805
+Scenario 3,T8:H4,Damage/Technical,0.07,6.13,6.9085,2.4928
+Scenario 3,T8:H4,Power Decrease,0.7,15.17,17.1,2.4928
+Scenario 3,T8:H4,Economic Motivation,0.23,24.38,25.8207,8.4819
+Scenario 3,T8:H4,Blended (Weighted),,17.25,18.7377,2.3627
